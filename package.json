@@ -1,0 +1,27 @@
+{
+  "name": "ok-coders-day-2-homework",
+  "version": "1.0.0",
+  "description": "Create a simple Node Todo List",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Aenglish1/OK-Coders-Day-2-Homework.git"
+  },
+  "keywords": [
+    "Node",
+    "Todo",
+    "List"
+  ],
+  "author": "Aaron H. English <aaron.h.english@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Aenglish1/OK-Coders-Day-2-Homework/issues"
+  },
+  "homepage": "https://github.com/Aenglish1/OK-Coders-Day-2-Homework#readme",
+  "dependencies": {
+    "prompt": "^1.0.0"
+  }
+}
